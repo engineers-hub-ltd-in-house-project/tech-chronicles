@@ -4,12 +4,12 @@
 
 ## ガイド一覧
 
-| ファイル | 内容 |
-|---------|------|
-| [workflow-overview.md](./workflow-overview.md) | 執筆ワークフロー全体像（設計→調査→執筆） |
-| [ai-guide-claude.md](./ai-guide-claude.md) | Anthropic Claude（Opus / Sonnet）向けガイド |
-| [ai-guide-chatgpt.md](./ai-guide-chatgpt.md) | OpenAI ChatGPT（GPT-4o / o3）向けガイド |
-| [ai-guide-gemini.md](./ai-guide-gemini.md) | Google Gemini（2.5 Pro / Flash）向けガイド |
+| ファイル                                       | 内容                                        |
+| ---------------------------------------------- | ------------------------------------------- |
+| [workflow-overview.md](./workflow-overview.md) | 執筆ワークフロー全体像（設計→調査→執筆）    |
+| [ai-guide-claude.md](./ai-guide-claude.md)     | Anthropic Claude（Opus / Sonnet）向けガイド |
+| [ai-guide-chatgpt.md](./ai-guide-chatgpt.md)   | OpenAI ChatGPT（GPT-4o / o3）向けガイド     |
+| [ai-guide-gemini.md](./ai-guide-gemini.md)     | Google Gemini（2.5 Pro / Flash）向けガイド  |
 
 ## 前提
 

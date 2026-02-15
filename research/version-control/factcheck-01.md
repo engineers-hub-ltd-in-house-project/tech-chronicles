@@ -10,7 +10,7 @@
 
 - **結論**: 登録開発者数1億8,000万人超（2025年10月時点）
 - **一次ソース**: GitHub Octoverse 2025レポート
-- **URL**: https://github.blog/news-insights/octoverse/octoverse-2025/
+- **URL**: <https://github.blog/news-insights/octoverse/octoverse-2025/>
 - **注意事項**: この数字は「登録総数」であり「月間アクティブ開発者数（MAD）」ではない。MADは別途発表されている場合がある
 - **記事での表現**: 「GitHubの登録開発者数は1億8,000万人を超えた（Octoverse 2025）」
 
@@ -18,7 +18,7 @@
 
 - **結論**: 93.87%（全回答者）、96.65%（プロフェッショナル開発者）
 - **一次ソース**: Stack Overflow Developer Survey 2022
-- **URL**: https://survey.stackoverflow.co/2022/
+- **URL**: <https://survey.stackoverflow.co/2022/>
 - **注意事項**: 2022年版がバージョン管理ツールに関する設問が設けられた最新の調査。2023年以降はこの設問が削除されている
 - **記事での表現**: 「Stack Overflow Developer Survey 2022では、gitの使用率は93.87%」
 
@@ -26,7 +26,7 @@
 
 - **結論**: 個人プロジェクト62%、組織41%（いずれも1位）
 - **一次ソース**: JetBrains State of CI/CD 2025
-- **URL**: https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/
+- **URL**: <https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/>
 - **記事での表現**: 「JetBrainsが2025年10月に公開したState of CI/CD調査によれば、個人プロジェクトでのCI/CDツール1位はGitHub Actionsで、利用率62%」
 
 ## 4. Gitの誕生日（最初のコミット）

@@ -1,4 +1,5 @@
 # git ありきの世界に警鐘を鳴らす
+
 ## ——バージョン管理の根源から未来を考える
 
 ### 第1回：なぜこの連載を書くのか——git ありきの世界への違和感
@@ -377,15 +378,15 @@ gitが空気になった世界で失われたもの。それは「選択する�
 
 ---
 
-*佐藤裕介——Engineers Hub株式会社 CEO / Technical Lead。1990年代後半からLinux/UNIXの世界に身を置き、24年以上の開発経験を持つ。「Enable——自走できる状態を作ること」を哲学に、技術と人の関係を問い続けている。*
+_佐藤裕介——Engineers Hub株式会社 CEO / Technical Lead。1990年代後半からLinux/UNIXの世界に身を置き、24年以上の開発経験を持つ。「Enable——自走できる状態を作ること」を哲学に、技術と人の関係を問い続けている。_
 
 ---
 
 ### 参考文献
 
-- GitHub, "Octoverse 2025," October 2025. https://github.blog/news-insights/octoverse/octoverse-2025/
-- Stack Overflow, "Developer Survey 2022 -- Version Control," June 2022. https://survey.stackoverflow.co/2022/
-- JetBrains, "The State of CI/CD in 2025," October 2025. https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/
+- GitHub, "Octoverse 2025," October 2025. <https://github.blog/news-insights/octoverse/octoverse-2025/>
+- Stack Overflow, "Developer Survey 2022 -- Version Control," June 2022. <https://survey.stackoverflow.co/2022/>
+- JetBrains, "The State of CI/CD in 2025," October 2025. <https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/>
 - Hunt, J. W. and McIlroy, M. D., "An Algorithm for Differential File Comparison," Bell Labs CSTR #41, July 1976.
 - Myers, E. W., "An O(ND) Difference Algorithm and Its Variations," Algorithmica, 1986.
 - Wall, L., "patch version 1.3," posted to mod.sources, May 24, 1985.

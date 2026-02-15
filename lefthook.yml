@@ -1,0 +1,9 @@
+pre-commit:
+  parallel: true
+  commands:
+    markdown-lint:
+      glob: "*.md"
+      run: npx markdownlint-cli2 {staged_files}
+    markdown-format:
+      glob: "*.md"
+      run: npx dprint check {staged_files}
