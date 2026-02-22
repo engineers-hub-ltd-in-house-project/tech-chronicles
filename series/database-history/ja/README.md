@@ -59,7 +59,7 @@ SQLを書ける人間は多い。だがなぜリレーショナルモデルが50
 | [第17回](./17-google-spanner.md)       | Google Spanner——分散と強一貫性の両立    | 公開済   |
 | [第18回](./18-oss-newsql.md)           | CockroachDB, TiDB——OSSで挑むNewSQL      | 公開済   |
 | [第19回](./19-serverless-databases.md) | サーバレスDB——運用からの解放            | 公開済   |
-| 第20回                                 | ベクトルDBとAI時代のデータ管理          | 執筆予定 |
+| [第20回](./20-vector-db-and-ai.md)     | ベクトルDBとAI時代のデータ管理          | 公開済   |
 | 第21回                                 | データレイクとLakehouse——分析基盤の進化 | 執筆予定 |
 
 ### 第6章：未来編（第22回〜第24回）
