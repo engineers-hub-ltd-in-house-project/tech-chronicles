@@ -17,7 +17,7 @@
 | 1  | [git ありきの世界に警鐘を鳴らす](./series/version-control/ja/) | バージョン管理の根源から未来を考える                   | 全24回 | 完結     |
 | 2  | [ターミナルは遺物か](./series/command-line/ja/)                | コマンドラインの本質を問い直す                         | 全24回 | 完結     |
 | 3  | [bash ありきの世界を疑え](./series/shell-history/ja/)          | シェルの根源から対話と自動化の未来を考える             | 全24回 | 完結     |
-| 4  | データベースの地層                                             | RDBからNewSQLまで、データ管理50年の地殻変動            | 全24回 | 設計完了 |
+| 4  | [データベースの地層](./series/database-history/ja/)            | RDBからNewSQLまで、データ管理50年の地殻変動            | 全24回 | 連載中   |
 | 5  | UNIXという思想                                                 | パイプ、プロセス、ファイル――すべてはここから始まった   | 全24回 | 設計完了 |
 | 6  | クラウドの考古学                                               | メインフレームからサーバーレスへ、計算資源の民主化史   | 全24回 | 設計完了 |
 | 7  | フレームワークという幻想                                       | CGIからNext.jsまで、Webフレームワーク30年史            | 全24回 | 設計完了 |
@@ -49,7 +49,9 @@ tech-chronicles/
 │   │   └── assets/                    # 図版・画像（言語共通）
 │   ├── command-line/                  # CLIシリーズ（完結）
 │   │   └── ja/                        # 日本語版
-│   └── shell-history/                 # シェルシリーズ（連載中）
+│   ├── shell-history/                 # シェルシリーズ（完結）
+│   │   └── ja/                        # 日本語版
+│   └── database-history/              # データベースシリーズ（連載中）
 │       └── ja/                        # 日本語版
 │
 ├── blueprints/                        # 執筆指示書（全20シリーズの設計図）
@@ -61,12 +63,14 @@ tech-chronicles/
 ├── handson/                           # ハンズオン演習環境
 │   ├── version-control/               # VCSシリーズ（全24回分）
 │   ├── command-line/                  # CLIシリーズ
-│   └── shell-history/                 # シェルシリーズ
+│   ├── shell-history/                 # シェルシリーズ
+│   └── database-history/              # データベースシリーズ
 │
 └── research/                          # 調査ノート・ファクトチェック記録
     ├── version-control/               # VCSシリーズ（全24回分）
     ├── command-line/                  # CLIシリーズ
-    └── shell-history/                 # シェルシリーズ
+    ├── shell-history/                 # シェルシリーズ
+    └── database-history/              # データベースシリーズ
 ```
 
 ## 設計思想
