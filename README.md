@@ -19,7 +19,7 @@
 | 3  | [bash ありきの世界を疑え](./series/shell-history/ja/)          | シェルの根源から対話と自動化の未来を考える             | 全24回 | 完結     |
 | 4  | [データベースの地層](./series/database-history/ja/)            | RDBからNewSQLまで、データ管理50年の地殻変動            | 全24回 | 完結     |
 | 5  | [UNIXという思想](./series/unix-philosophy/ja/)                 | パイプ、プロセス、ファイル――すべてはここから始まった   | 全24回 | 完結     |
-| 6  | クラウドの考古学                                               | メインフレームからサーバーレスへ、計算資源の民主化史   | 全24回 | 設計完了 |
+| 6  | [クラウドの考古学](./series/cloud-history/ja/)                 | メインフレームからサーバーレスへ、計算資源の民主化史   | 全24回 | 連載中   |
 | 7  | フレームワークという幻想                                       | CGIからNext.jsまで、Webフレームワーク30年史            | 全24回 | 設計完了 |
 | 8  | HTTPを知らずにWebを語るな                                      | HTTP/0.9からHTTP/3まで、プロトコルの進化史             | 全24回 | 設計完了 |
 | 9  | テキストエディタ戦争史                                         | edからVS Codeまで、コードを書く道具の進化と本質        | 全24回 | 設計完了 |
@@ -53,7 +53,9 @@ tech-chronicles/
 │   │   └── ja/                        # 日本語版
 │   ├── database-history/              # データベースシリーズ（完結）
 │   │   └── ja/                        # 日本語版
-│   └── unix-philosophy/               # UNIX思想シリーズ（連載中）
+│   ├── unix-philosophy/               # UNIX思想シリーズ（完結）
+│   │   └── ja/                        # 日本語版
+│   └── cloud-history/                 # クラウド史シリーズ（連載中）
 │       └── ja/                        # 日本語版
 │
 ├── blueprints/                        # 執筆指示書（全20シリーズの設計図）
@@ -67,14 +69,16 @@ tech-chronicles/
 │   ├── command-line/                  # CLIシリーズ
 │   ├── shell-history/                 # シェルシリーズ
 │   ├── database-history/              # データベースシリーズ
-│   └── unix-philosophy/               # UNIX思想シリーズ
+│   ├── unix-philosophy/               # UNIX思想シリーズ
+│   └── cloud-history/                 # クラウド史シリーズ
 │
 └── research/                          # 調査ノート・ファクトチェック記録
     ├── version-control/               # VCSシリーズ（全24回分）
     ├── command-line/                  # CLIシリーズ
     ├── shell-history/                 # シェルシリーズ
     ├── database-history/              # データベースシリーズ
-    └── unix-philosophy/               # UNIX思想シリーズ
+    ├── unix-philosophy/               # UNIX思想シリーズ
+    └── cloud-history/                 # クラウド史シリーズ
 ```
 
 ## 設計思想
