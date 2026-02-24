@@ -33,6 +33,7 @@ AIはこの指示書を参照することで、著者が書いたとしか思え
 | 19 | [type-system.md](./type-system.md)                 | 型という制約の美学             | 設計完了 |
 | 20 | [concurrency.md](./concurrency.md)                 | 並行処理の地雷原               | 設計完了 |
 | 21 | [performance-history.md](./performance-history.md) | 計測せよ、推測するな           | 設計完了 |
+| 22 | [delivery-strategy.md](./delivery-strategy.md)     | mainにマージしたら本番が燃えた | 設計完了 |
 | -- | [_template.md](./_template.md)                     | 新シリーズ作成用テンプレート   | --       |
 
 ## 使い方
