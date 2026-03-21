@@ -20,7 +20,7 @@
 | 4  | [データベースの地層](./series/database-history/ja/)            | RDBからNewSQLまで、データ管理50年の地殻変動            | 全24回 | 完結     |
 | 5  | [UNIXという思想](./series/unix-philosophy/ja/)                 | パイプ、プロセス、ファイル――すべてはここから始まった   | 全24回 | 完結     |
 | 6  | [クラウドの考古学](./series/cloud-history/ja/)                 | メインフレームからサーバーレスへ、計算資源の民主化史   | 全24回 | 完結     |
-| 7  | フレームワークという幻想                                       | CGIからNext.jsまで、Webフレームワーク30年史            | 全24回 | 設計完了 |
+| 7  | [フレームワークという幻想](./series/web-framework/ja/)         | CGIからNext.jsまで、Webフレームワーク30年史            | 全24回 | 連載中   |
 | 8  | HTTPを知らずにWebを語るな                                      | HTTP/0.9からHTTP/3まで、プロトコルの進化史             | 全24回 | 設計完了 |
 | 9  | テキストエディタ戦争史                                         | edからVS Codeまで、コードを書く道具の進化と本質        | 全24回 | 設計完了 |
 | 10 | コンテナという箱の中身                                         | chrootからKubernetesまで、仮想化と隔離の40年史         | 全24回 | 設計完了 |
@@ -57,7 +57,9 @@ tech-chronicles/
 │   │   └── ja/                        # 日本語版
 │   ├── unix-philosophy/               # UNIX思想シリーズ（完結）
 │   │   └── ja/                        # 日本語版
-│   └── cloud-history/                 # クラウド史シリーズ（完結）
+│   ├── cloud-history/                 # クラウド史シリーズ（完結）
+│   │   └── ja/                        # 日本語版
+│   └── web-framework/                 # Webフレームワークシリーズ（連載中）
 │       └── ja/                        # 日本語版
 │
 ├── blueprints/                        # 執筆指示書（全20シリーズの設計図）
@@ -72,7 +74,8 @@ tech-chronicles/
 │   ├── shell-history/                 # シェルシリーズ
 │   ├── database-history/              # データベースシリーズ
 │   ├── unix-philosophy/               # UNIX思想シリーズ
-│   └── cloud-history/                 # クラウド史シリーズ
+│   ├── cloud-history/                 # クラウド史シリーズ
+│   └── web-framework/                 # Webフレームワークシリーズ
 │
 └── research/                          # 調査ノート・ファクトチェック記録
     ├── version-control/               # VCSシリーズ（全24回分）
@@ -80,7 +83,8 @@ tech-chronicles/
     ├── shell-history/                 # シェルシリーズ
     ├── database-history/              # データベースシリーズ
     ├── unix-philosophy/               # UNIX思想シリーズ
-    └── cloud-history/                 # クラウド史シリーズ
+    ├── cloud-history/                 # クラウド史シリーズ
+    └── web-framework/                 # Webフレームワークシリーズ
 ```
 
 ## 設計思想
