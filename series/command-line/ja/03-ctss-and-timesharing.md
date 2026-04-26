@@ -22,10 +22,10 @@
 
 ## 1. プロンプトが返ってくるという感覚
 
-1990年代の後半、私は大学の計算機室でtelnetコマンドを打っていた。
+1990年代の後半、私は職場の端末からtelnetコマンドを打っていた。
 
 ```
-$ telnet remote-server.example.ac.jp
+$ telnet remote-server.example.com
 ```
 
 Enter。数秒の沈黙。そして画面に現れる `login:` の文字列。ユーザー名を入力し、パスワードを打つ。すると `$` が表示される。プロンプトだ。
